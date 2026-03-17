@@ -11,11 +11,6 @@
 
 Welcome to my repository! This repository contains all the tasks, projects, and assignments completed during my **Java Development Internship** at [Codveda Technologies](https://www.linkedin.com/company/codveda-technologies/). The internship consisted of 3 different levels of progressive difficulty, each focusing on enhancing problem-solving skills, mastering Object-Oriented Programming (OOP) concepts, and building solid Java applications.
 
-<div dir="rtl">
-<b>نبذة باللغة العربية:</b><br/>
-هذا المستودع يحتوي على جميع المهام والمشاريع التي قمت بتنفيذها خلال فترة التدريب في شركة Codveda Technologies في مجال تطوير الجافا (Java Development). ينقسم التدريب إلى ثلاثة مستويات متدرجة الصعوبة (أساسي، متوسط، و... )، وهدفه الأساسي هو بناء وتطوير مهاراتي البرمجية وتعزيز فهمي العميق لأساسيات البرمجة، وكذلك تطبيق مفاهيم البرمجة كائنية التوجه (OOP) وغيرها من المواضيع المتقدمة في جافا.
-</div>
-
 ---
 
 ## 📂 Project Structure & Tasks Breakdown
