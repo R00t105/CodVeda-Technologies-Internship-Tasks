@@ -1,19 +1,19 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Codveda-Internship-blue?style=for-the-badge" alt="Codveda Internship" />
-  <h1>🚀 Codveda Technology - Java Development Internship 🚀</h1>
-  <p><strong>A comprehensive showcase of my journey and projects completed during the Codveda Technology Internship.</strong></p>
+  <h1>🚀 Codveda Technologies - Java Development Internship 🚀</h1>
+  <p><strong>A comprehensive showcase of my journey and projects completed during the Codveda Technologies Internship.</strong></p>
 </div>
 
 ---
 
 ## 📖 About The Internship
 
-Welcome to my repository! This repository contains all the tasks, projects, and assignments completed during my **Java Development Internship** at [Codveda Technology](https://www.linkedin.com/company/codveda/). The internship consisted of 3 different levels of progressive difficulty, each focusing on enhancing problem-solving skills, mastering Object-Oriented Programming (OOP) concepts, and building solid Java applications.
+Welcome to my repository! This repository contains all the tasks, projects, and assignments completed during my **Java Development Internship** at [Codveda Technologies](https://www.linkedin.com/company/codveda-technologies/). The internship consisted of 3 different levels of progressive difficulty, each focusing on enhancing problem-solving skills, mastering Object-Oriented Programming (OOP) concepts, and building solid Java applications.
 
 <div dir="rtl">
 <b>نبذة باللغة العربية:</b><br/>
-هذا المستودع يحتوي على جميع المهام والمشاريع التي قمت بتنفيذها خلال فترة التدريب في شركة Codveda Technology في مجال تطوير الجافا (Java Development). ينقسم التدريب إلى ثلاثة مستويات متدرجة الصعوبة (أساسي، متوسط، و... )، وهدفه الأساسي هو بناء وتطوير مهاراتي البرمجية وتعزيز فهمي العميق لأساسيات البرمجة، وكذلك تطبيق مفاهيم البرمجة كائنية التوجه (OOP) وغيرها من المواضيع المتقدمة في جافا.
+هذا المستودع يحتوي على جميع المهام والمشاريع التي قمت بتنفيذها خلال فترة التدريب في شركة Codveda Technologies في مجال تطوير الجافا (Java Development). ينقسم التدريب إلى ثلاثة مستويات متدرجة الصعوبة (أساسي، متوسط، و... )، وهدفه الأساسي هو بناء وتطوير مهاراتي البرمجية وتعزيز فهمي العميق لأساسيات البرمجة، وكذلك تطبيق مفاهيم البرمجة كائنية التوجه (OOP) وغيرها من المواضيع المتقدمة في جافا.
 </div>
 
 ---
@@ -91,5 +91,5 @@ To run any of the tasks locally, ensure you have the **Java Development Kit (JDK
 If you liked this repository or if it helped you, feel free to drop a ⭐!
 
 <div align="center">
-  <p>Developed with ❤️ during the <a href="https://www.linkedin.com/company/codveda/">Codveda Internship</a>.</p>
+  <p>Developed with ❤️ by <b>Momen</b> during the <a href="https://www.linkedin.com/company/codveda-technologies/">Codveda Technologies Internship</a>.</p>
 </div>
